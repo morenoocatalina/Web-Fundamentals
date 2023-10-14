@@ -52,3 +52,92 @@ footer a {
     background-color: #ffffff; 
     color: #2c056b; 
 }
+.home-title {
+    font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } h3 { font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; 
+    font-size: 2em;
+}
+
+.book, .join {
+    font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } h3 { font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; 
+    font-size: 28px;
+}
+
+.msg p {
+    font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } h3 { font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px;
+    font-size: .8em;
+}
+
+.msg {
+    background-color: #4c4c6b;
+    line-height: 1.5em;
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+}
+h2 {
+    margin: 0;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    padding: 35px;
+}
+
+#logo_link{
+    padding-top: 5px;
+}
+.book, .join{
+    color: #090f44;
+    text-align: center;
+    padding: 15px 30px;
+}
+
+.icon {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.msg  { padding: 35px;}
+
+.msg p   {padding-bottom: 15px;}
+
+footer  {padding: 25px 50px;}
+
+footer .social img  {padding-top: 15px;}
+
+.home-title   {
+    background-color: #eed12e;
+    color: #fff;
+    margin-top: 10px;}
+
+
+    .book, .join {
+        background-color: #0b225f;
+        color: #ffffff;
+        text-decoration: none;
+        font-size: 18px;
+        padding: 15px 30px;
+        margin-top: 50px;
+    }
+
+    .rivers-card, .camping-card, .rapids-card  { margin: 200px 0; }
+
+    footer  { margin-top: 200px;}
+
+    .book, .join {
+        background-color: #364b37;
+        color: rgb(255, 255, 255);
+        margin-top: 50px;
+        border-radius: 5px;
+    }    
+    .card-img {
+        border: 10px solid #000000;
+    }   
+
+    main section img {
+        box-sizing: border-box;
+    }
