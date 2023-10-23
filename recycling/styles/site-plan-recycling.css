@@ -6,10 +6,11 @@ Fonts are separated by a & */
 
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #0e518b   ;
-  --secondary-color: #10abb1 ;
+  --primary-color: #485F73   ;
+  --secondary-color: #A5F26D ;
   --accent1-color: #D9D9D9;
-  --accent2-color: #85ba5f;
+  --accent3-color: #BF8C6F;
+  --accent2-color: #AEF27E;
 
   /* change the values below to your chosen font(s) */
   --heading-font: 'EB Garamond', serif;
@@ -22,9 +23,9 @@ Fonts are separated by a & */
   --paragraph-color-on-color: whITE;/* paragraph text on a colored background */ 
   --paragraph-background-color: #85ba5f  ;
   --nav-link-color: white;
-  --nav-background-color: #0e518b;
+  --nav-background-color: #BF8C6F;
   --nav-hover-link-color: white;
-  --nav-hover-background-color: #10abb1;
+  --nav-hover-background-color: #7d5e4c;
 }
 
 
