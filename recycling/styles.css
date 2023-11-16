@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #485F73; /* Color de fondo del encabezado */
+    padding: 10px; /* Espaciado interno */
+  }
+  
+  .logo-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo-container img {
+    width: 50px; /* Ajusta el tamaño de tu logo según sea necesario */
+    margin-right: 10px; /* Espaciado a la derecha del logo */
+  }
+  
+  nav a {
+    text-decoration: none;
+    margin-right: 20px; /* Espaciado entre enlaces de navegación */
+    color: #333; /* Color del texto de los enlaces */
+  }
+  
+  main {
+    padding: 20px; /* Espaciado interno del contenido principal */
+  }
+  
+  footer {
+    background-color: #f1f1f1; /* Color de fondo del pie de página */
+    padding: 10px; /* Espaciado interno del pie de página */
+    text-align: center;
+  }
+  
+  header h1 {
+    font-family: "Merriweather", serif;
+    color: #f1f1f1;
+  }
+ 
+  nav a {
+    text-decoration: none;
+    margin-right: 20px; /* Espaciado entre enlaces de navegación */
+    color: #f1f1f1; /* Color blanco del texto de los enlaces */
+  }
+  
+  nav a:hover {
+    text-decoration: underline; /* Opcional: Subrayar al pasar el ratón sobre el enlace */
+  }
