@@ -5,8 +5,8 @@ body {
   }
   
   header {
-    background-color: #485F73; /* Color de fondo del encabezado */
-    padding: 10px; /* Espaciado interno */
+    background-color: #485F73; 
+    padding: 10px; 
   }
   
   .logo-container {
@@ -15,23 +15,23 @@ body {
   }
   
   .logo-container img {
-    width: 50px; /* Ajusta el tamaño de tu logo según sea necesario */
-    margin-right: 10px; /* Espaciado a la derecha del logo */
+    width: 50px; 
+    margin-right: 10px;
   }
   
   nav a {
     text-decoration: none;
-    margin-right: 20px; /* Espaciado entre enlaces de navegación */
-    color: #333; /* Color del texto de los enlaces */
+    margin-right: 20px;
+    color: #333;
   }
   
   main {
-    padding: 20px; /* Espaciado interno del contenido principal */
+    padding: 20px; 
   }
   
   footer {
-    background-color: #f1f1f1; /* Color de fondo del pie de página */
-    padding: 10px; /* Espaciado interno del pie de página */
+    background-color: #f1f1f1; 
+    padding: 10px;
     text-align: center;
   }
   
@@ -42,8 +42,8 @@ body {
  
   nav a {
     text-decoration: none;
-    margin-right: 20px; /* Espaciado entre enlaces de navegación */
-    color: #f1f1f1; /* Color blanco del texto de los enlaces */
+    margin-right: 20px; 
+    color: #f1f1f1; 
   }
   
   nav a:hover {
